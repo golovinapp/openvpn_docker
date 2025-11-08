@@ -17,7 +17,7 @@ Deploys automatically via Bash script and includes command-line user management.
 
 ## Quick start
 ```bash
-curl -O https://raw.githubusercontent.com/golovinapp/openvpn_docker/deploy-openvpn.sh
+curl -O https://raw.githubusercontent.com/golovinapp/openvpn_docker/refs/heads/main/deploy-ovpn.sh
 sudo bash deploy-openvpn.sh
 ```
 The script installs Docker (if missing), configures OpenVPN, and generates  
